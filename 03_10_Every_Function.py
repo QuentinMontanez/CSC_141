@@ -1,0 +1,5 @@
+list=("FNF, DBL, TJOC, FNIA, and Roblox")
+print(list)
+sorted([4])
+reversed([2])
+del list (1,"FNF")

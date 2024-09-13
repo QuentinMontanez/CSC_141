@@ -1,0 +1,7 @@
+list=("Florida, New York, Japan, Ohio, Mexico")
+list,sorted([1])
+list,sorted([2])
+list,reversed([1])
+list,reversed([3])
+list,sorted([0])
+list,sorted([4])
