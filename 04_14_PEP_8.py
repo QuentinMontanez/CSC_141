@@ -1,0 +1,2 @@
+message=("I learned more about the arranging part of the functions and how to do it properly. I also learned how to indent my programs in a prefessional way. The last thing that I learned is more about the import function and how to do it correctly. ")
+print(message)
