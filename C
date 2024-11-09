@@ -1,0 +1,4 @@
+In C you can print out different commands and functions within the directory.
+In C you can loop and make lists out of anything you could think of.
+In C you can become an admin over things and give yourself permissions.
+In C you can make things like dice and the lottery out of coding the right way.
